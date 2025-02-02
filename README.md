@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="#features"><strong>Features</strong></a> ·
   <a href="#prerequisites"><strong>Prerequisites</strong></a> ·
   <a href="#getting-started"><strong>Getting Started</strong></a> ·
   <a href="#environment-variables"><strong>Environment Variables</strong></a> ·
